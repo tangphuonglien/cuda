@@ -1,0 +1,9 @@
+1. Install CUDA toolkit 10.0
+
+2. Install VS 2015 pro
+
+3. Install Python
+
+4. Install numpy by pip install numpy
+
+5. Install pycuda by pip install pycuda
